@@ -8,6 +8,9 @@ export default {
     extend: {
       backgroundImage: {
         'bg': "url('./src/img/background.jpg')",
+      },
+      fontFamily: {
+        'roboto': ['Roboto', 'sans-serif'] 
       }
     },
   },
