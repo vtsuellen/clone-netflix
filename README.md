@@ -8,12 +8,12 @@ Este projeto é um clone da Netflix implementado usando **React.js**, **TypeScri
 - Filtros por gênero, como Ação, Comédia, Terror, Romance e Documentários.
 - Navegação entre páginas usando o React Router.
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
-- **src/api/api.js**: Contém a lógica para fazer chamadas à API TMDb e buscar informações sobre filmes e séries.
+- **`src/api/api.js`**: Contém a lógica para fazer chamadas à API TMDb e buscar informações sobre filmes e séries.
 
-- **src/components**: Pasta que contém componentes reutilizáveis, como o cabeçalho (Header), a lista de filmes (MovieRow) e o destaque (FeaturedMovie).
+- **`src/components`**: Pasta que contém componentes reutilizáveis, como o cabeçalho (Header), a lista de filmes (MovieRow) e o destaque (FeaturedMovie).
 
-- **src/pages**: Contém as páginas do aplicativo, incluindo a página inicial (HomePage) e a página de login (Login).
+- **`src/pages`**: Contém as páginas do aplicativo, incluindo a página inicial (HomePage) e a página de login (Login).
 
-- **src/App.js**: O componente raiz do aplicativo, que define as rotas usando o React Router.
+- **`src/App.js`**: O componente raiz do aplicativo, que define as rotas usando o React Router.
